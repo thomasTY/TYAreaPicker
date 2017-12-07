@@ -3,7 +3,7 @@
 > 基于vue封装的地址选择器组件，支持选择省市区
 
 ## Demo地址
-[https://thomasty.github.io/TYAreaPicker/dist/](https://thomasty.github.io/TYAreaPicker/dist)
+[https://thomasty.github.io/TYAreaPicker/dist/#/](https://thomasty.github.io/TYAreaPicker/dist/#/)
 
 ## Build Setup
 
